@@ -1,2 +1,2 @@
 # MS
-Modelare si Simulare
+Generator Numere
